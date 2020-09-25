@@ -1,2 +1,2 @@
 # torchplay
-Minimalist PyTorch tutorials with specific objectives
+Minimalist PyTorch tutorial for students with specific objectives
