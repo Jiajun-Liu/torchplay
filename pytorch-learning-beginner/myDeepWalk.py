@@ -1,4 +1,8 @@
-#reference: https://dsgiitr.com/blogs/deepwalk/
+
+##############################################
+#reference: 
+# https://dsgiitr.com/blogs/deepwalk/
+##############################################
 import torch
 import torch.optim as optim 
 import torch.nn as nn
