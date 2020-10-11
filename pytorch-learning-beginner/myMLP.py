@@ -8,7 +8,7 @@ import torchvision.transforms as transforms
 
 ######################################################
 # Rerences:
-# Thank you for Professor Jiajun Liu
+# Thanks Professor Jiajun Liu
 # https://github.com/Jiajun-Liu/torchplay/blob/master/simplemlp.py
 # https://deeplizard.com/
 ######################################################
